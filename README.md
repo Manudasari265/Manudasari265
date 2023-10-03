@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **HTML5 , CSS3 , JS , NodeJS , ExpressJS , MongoDb , React**
 
+- 💬 Also have good Knowledge and experience in building Java Backend projects
+
 - 📫 Reach me at **dasarimanoj265@gmail.com**
 
 - ⚡ Fun fact **I cook with extra spices when I code!**
