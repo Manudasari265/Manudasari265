@@ -11,8 +11,8 @@
 
 - 🌱 I’m a Full-Stack Developer having knowledge in MERN tech stack.
 
-- 💬 I can build full-blown production-grade web applications using HTML, CSS, JavaScript, and the MERN stack.
- **HTML5 , CSS3 , JS , NodeJS , ExpressJS , MongoDb , React**
+- 💬 I can build full-blown production-grade web applications using 
+ **React.js, Tailwind CSS, Shadcn UI, Node.js, Express.js, Mongo DB**
 
 - 💬 Also have good Knowledge and experience in building Java Backend projects
 
