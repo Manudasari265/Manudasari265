@@ -6,10 +6,9 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 </div>
 
 - 🌱 I’m a Full-Stack Developer having knowledge in MERN tech stack.
-
+- ⚡ I'm passionate about more in Front-end and Web 3.0 blockchain development
 - 💬 I can build production-grade web applications using 
  **React.js, Tailwind CSS, Shadcn UI, Node.js, Express.js, Mongo DB**
-- ⚡ I'm passionate about more in Front-end and Web 3.0 development
 - 💬 Also have good Knowledge and experience in building Java Backend projects
 
 - 📫 Reach me at **dasarimanoj265@gmail.com**
