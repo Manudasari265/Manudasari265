@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Manoj!](assets/header.gif)](https://github.com/Manudasari265)
+[![Hello World, I'm Manoj!](header.gif)](https://github.com/Manudasari265)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 </div>
