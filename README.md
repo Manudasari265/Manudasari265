@@ -1,5 +1,6 @@
-![gif2](https://github.com/user-attachments/assets/90844280-16df-4f9b-95b6-33cad654996b) 
-<h1 align="center">Hi 👋, I'm Manoj</h1>
+![Office Day - Kirokaze Pixel](https://github.com/user-attachments/assets/1bcea574-e704-48aa-9bc0-2cac5ceba529)
+<h1 align="center">
+Hi 👋, I'm Manoj</h1>
 <h3 align="center">I craft pixel-perfect ui/ux designs and scalable backend full-stack applications</h3>
 
 <div align="center">
