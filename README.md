@@ -1,4 +1,5 @@
-Hi 👋, I'm Manoj</h1>
+<h1 align="center">Hi 👋, I'm Manoj</h1>
+
 <h3 align="center">I craft low-level architecture designs and scalable backend applications</h3>
 
 
