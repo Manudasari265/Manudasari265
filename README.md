@@ -1,7 +1,7 @@
 ![Office Day - Kirokaze Pixel](https://github.com/user-attachments/assets/1bcea574-e704-48aa-9bc0-2cac5ceba529)
 <h1 align="center">
 Hi 👋, I'm Manoj</h1>
-<h3 align="center">I craft pixel-perfect ui/ux designs and scalable backend full-stack applications</h3>
+<h3 align="center">I craft low-level architecture designs and scalable backend applications</h3>
 
 <div align="center">
 
@@ -9,11 +9,11 @@ Hi 👋, I'm Manoj</h1>
 
 - 🔭 I’m currently working on [SynoraLabs](https://x.com/SynoraLabs)
 
-- 🌱 I’m currently learning **Distributed Systems, Rust, System Design, Pro-React**
+- 🌱 I’m currently learning **Distributed Systems, Rust, System Design**
 
-- 👯 I’m looking to collaborate on **On Building Full-Stack applications**
+- 👯 I’m looking to collaborate on **On Building Scalable Backend applications**
 
-- 💬 Ask me about **Typescript/Javscript, React.js, Tailwind-CSS, Shadcn/ui, Node.js, PostgresSQL, Prisma/Drizzle ORM, Rust, Web3, Solana, Distributed Systems framer, Figma,**
+- 💬 Ask me about **Typescript/Javscript, Node.js, PostgresSQL, Prisma/Drizzle ORM, Rust, Web3, Solana, Distributed Systems**
 
 - 📫 How to reach me **dasarimanoj265@gmail.com**
 
