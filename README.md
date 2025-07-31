@@ -1,11 +1,8 @@
+![Office Day - Kirokaze Pixel](https://github.com/user-attachments/assets/1bcea574-e704-48aa-9bc0-2cac5ceba529)
+<h1 align="center">
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 
 <h3 align="center">I craft low-level architecture designs and scalable backend applications</h3>
-
-
-![Office Day - Kirokaze Pixel](https://github.com/user-attachments/assets/1bcea574-e704-48aa-9bc0-2cac5ceba529)
-<h1 align="center">
-
 <div align="center">
 
 </div>
