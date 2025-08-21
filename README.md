@@ -7,13 +7,13 @@
 
 </div>
 
-- 🔭 I’m currently working on [SynoraLabs](https://x.com/SynoraLabs)
+- 🔭 I’m currently working on [Solana Client Extension](https://x.com/0XbOoMhEaD/status/1931033908239585729)
 
 - 🌱 I’m currently learning **Distributed Systems, Rust, System Design**
 
 - 👯 I’m looking to collaborate on **On Building Scalable Backend applications**
 
-- 💬 Ask me about **Typescript/Javscript, Node.js, PostgresSQL, Prisma/Drizzle ORM, Rust, Web3, Solana, Distributed Systems**
+- 💬 Ask me about **Rust, Web3, Solana, Distributed Systems, Typescript/Javscript, Node.js, PostgresSQL, Prisma/Drizzle ORM**
 
 - 📫 How to reach me **dasarimanoj265@gmail.com**
 
