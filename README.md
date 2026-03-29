@@ -1,27 +1,24 @@
-![Office Day - Kirokaze Pixel](https://github.com/user-attachments/assets/1bcea574-e704-48aa-9bc0-2cac5ceba529)
-<h1 align="center">
-<h1 align="center">Hi 👋 I'm Manoj</h1>
+### hey, i'm manoj 👋
 
-<h3 align="center">I craft low-level architecture designs and scalable backend applications</h3>
-<div align="center">
+```rust
+impl Engineer for Manoj {
 
-</div>
+    const STACK: &'static str = "rust, c, syscalls, bare metal";
 
-- 🔭 I’m currently working on [Solana Client Extension](https://x.com/0XbOoMhEaD/status/1931033908239585729)
+    unsafe fn build(&self) -> &str { "i build things the compiler can't save you from" }
+}
+```
 
-- 🌱 I’m currently learning **Distributed Systems, Rust, System Design**
+i spend most of my time a few layers deeper than usual - rust, c, haywires, and strongly-typed opinions about memory safety.
 
-- 👯 I’m looking to collaborate on **On Building Scalable Backend applications**
+*i build distributed systems && on-chain infrastructure on solana, obsessed with what happens between the register and the wire - and yes, i read research papers when i'm completely AFK*
 
-- 💬 Ask me about **Rust, Web3, Solana, Distributed Systems, Typescript/Javscript, Node.js, PostgresSQL, Prisma/Drizzle ORM**
+#### ***📖 currently reading & researching***
+>  DeFi state markets
+>
+>  validator networking layer
+>
+>  all about orderbooks  
 
-- 📫 How to reach me **dasarimanoj265@gmail.com**
-
-- ⚡ Fun fact **I cook with extra spices when I code!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="top">
-<a href="https://twitter.com/0xboomhead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xboomhead" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dasarimanoj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dasarimanoj/" height="30" width="40" /></a>
-</p>
-
+#### find me
+[𝕏](https://x.com/boomheadvt) · [linkedin](https://www.linkedin.com/in/dasarimanoj/)
