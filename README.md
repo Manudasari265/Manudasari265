@@ -1,4 +1,4 @@
-### hey, i'm manoj 👋
+### hey there, i'm manu 👋
 
 ```rust
 impl Engineer for Manoj {
